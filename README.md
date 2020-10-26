@@ -1,6 +1,6 @@
 ## Banking management system program in C++
 
-Implementing a C++ console program for the banking management system using oriented object in c++.
+Implementing a C++ console program for the banking management system using oriented object programming in c++.
 this basic program has some opérations:
 
 - **void readDataFromConsole();** //this function to read the input text entred by user in console
