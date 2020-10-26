@@ -1,0 +1,8 @@
+﻿  Account.cpp
+c:\users\mmaarouf.actia\source\repos\banking management system\banking management system\account.cpp(319): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\mmaarouf.actia\source\repos\banking management system\banking management system\account.cpp(419): warning C4018: '<' : incompatibilité signed/unsigned
+  main.cpp
+  Génération de code en cours
+  Fin de la génération du code
+  All 347 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Banking management system.vcxproj -> C:\Users\mmaarouf.ACTIA\source\repos\Banking management system\Release\Banking management system.exe
